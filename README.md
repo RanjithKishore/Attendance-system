@@ -1,4 +1,4 @@
-# Attendance-system<br>
+# Student attendence collection via video<br>
 This project is meant to help collection of attendance through a video source.<br>
 Building blocks:<br>
   Detection-MTCNN-pretrained detector <uses tensor flow 1.14 or 1.13><br>
