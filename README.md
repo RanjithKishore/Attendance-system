@@ -13,6 +13,7 @@ Files:<br><b>facerecogvideo</b> is used to take a video as input(function facere
  
  Reference:<br> https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
  <br>This blog was the basic step towards this project.
+ Two files (facenet_keras.h5 and facenet_keras_weights.h5) can be downloaded from the link in the blog.
  
  <br>Tip: in the vector machine try changing the kernel settings to 'rbf' or'poly' instead of leniar to find out ehich gives the best results.
 The basic flow of control is as follows:
