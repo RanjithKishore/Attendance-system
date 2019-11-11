@@ -15,3 +15,5 @@ Files:<br><b>facerecogvideo</b> is used to take a video as input(function facere
  <br>This blog was the basic step towards this project.
  
  <br>Tip: in the vector machine try changing the kernel settings to 'rbf' or'poly' instead of leniar to find out ehich gives the best results.
+The basic flow of control is as follows:
+<img src="https://raw.githubusercontent.com/RanjithKishore/Attendance-system/master/IMG_20191111_220447872.jpg">
